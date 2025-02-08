@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **anujeshify/anujeshify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Anujesh Bansal
+
+I'm a Computer Science Engineering student who thrives on transforming challenges into creative solutions. Whether I'm decoding social trends or building tools for mental wellness, I believe in crafting technology with empathy and precision.
+When I'm not coding, you'll find me writing poetry, fueling hackathons, or chasing football glory. I believe in the power of collaboration and continuous learning, and I'm always eager to connect with fellow developers and creators.
